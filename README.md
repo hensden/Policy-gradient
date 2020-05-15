@@ -1,5 +1,3 @@
-# CSCI-566 Assignment 3
-
 ## The objectives of this assignment
 * Getting familiar with reinforcement learning and policy gradient methods!
 * Setting up and interacting with environments, specifically [OpenAI Gym environments](https://github.com/openai/gym).
